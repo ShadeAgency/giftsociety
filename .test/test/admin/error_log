@@ -1,0 +1,4 @@
+[29-Sep-2022 15:29:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shadecrm/public_html/giftsociety/test/newsportal/admin/includes/config.php on line 6
+[29-Sep-2022 15:30:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shadecrm/public_html/giftsociety/test/test/admin/includes/config.php on line 6
+[29-Sep-2022 15:31:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shadecrm/public_html/giftsociety/test/test/admin/includes/config.php on line 6
+[29-Sep-2022 15:31:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shadecrm/public_html/giftsociety/test/test/admin/includes/config.php on line 6

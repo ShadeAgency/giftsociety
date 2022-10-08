@@ -1,0 +1,95 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(/fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+    }
+@font-face {
+    font-family: Sofia;
+    src: url(/fonts/Sofia/Sofia-Regular.ttf);
+    }
+    /* body{
+        font-family: Montserrat;
+        font-size: 300px;
+    } */
+    body{
+        font-family: Montserrat;
+        letter-spacing: 0.5px;
+    }
+    .ls-sm{
+        letter-spacing: 0.9px;
+    }
+    .ls-md{
+        letter-spacing: 2px;
+    }
+    .ls-lg{
+        letter-spacing: 3px;
+    }
+    .ls-xl{
+        letter-spacing: 4px;
+    }
+    .bg-light{
+        background-color: white !important;
+    }
+    .bg-offwhite{
+        background-color: whitesmoke !important;
+    }
+    .bg-warning{
+        background-color: #FAFF28 !important;
+    }
+    .bg-purple{
+        background-color: #C68DFE !important;
+    }
+    .text-light{
+        color: white;
+    }
+    .text-warning{
+        color: #FAFF28 !important;
+    }
+    .text-purple{
+        color: #C68DFE !important;
+    }
+
+
+
+    .h-10vh{
+        height: 10px;
+    }
+    .dropdown{
+        position: relative;
+        display: inline-block;
+    }
+    .dropdown-content{
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+    .dropdown:hover .dropdown-content {display: block;}
+    .mine{
+        position: absolute;
+        width: 100%;
+        top: 11%;
+        z-index: 1;
+        display: none;
+    }
+    .box-1{
+        box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+    }
+    .box-2{
+        box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;    }
+    /* #switch{
+        display: none;
+    } */
+    .fm-1{
+        font-family: "Sofia", serif;
+    }
+    .form-control:focus{
+        box-shadow: none;
+    }
+    .form-select:focus{
+        box-shadow: none;
+    }
+    .card{
+        border: none !important;
+    }
